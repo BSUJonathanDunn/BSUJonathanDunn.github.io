@@ -1,8 +1,10 @@
 # Welcome to my Github Page!
-
+---------------------------------------------------------------------------------------------------------
 This is the first stop of my ever expanding page of project ideas and future programming fun!
 
 Visit here often to find out what I'm up to, what I am programming, and what I'm working on in school!
+
+---------------------------------------------------------------------------------------------------------
 
 ## About Me
 
@@ -25,4 +27,8 @@ I help supervise our teams to try and bring a clean campus to students and staff
 comfortable learning/working environment.
 
 It also gives a pretty sweet discount on tuition and credit costs too!
+
+### Hobbies
+
+Gaming 🎮 , Drawing 🎨 , Programming 💻 , Farmer's Markets 👨‍🌾 , Hiking ⛰️
 
