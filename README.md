@@ -1,4 +1,4 @@
-# Welcome to my Github Page!
+# Welcome to Jonathan Dunn's Github Page!
 ---------------------------------------------------------------------------------------------------------
 This is the first stop of my ever expanding page of project ideas and future programming fun!
 
@@ -22,7 +22,7 @@ advancements in the field!
 
 ### Work
 
-Currently, I work at $\color{#0033A0}{Boise}$ $\color{#D64309}{State}$ $\color{#0033A0}{University}$ as a supervisor for the West team for our custodial and maintenance teams.\
+Currently, I work at **BSU** as a supervisor for the West team for our custodial and maintenance teams.\
 I help supervise our teams to try and bring a clean campus to students and staff for a more\
 comfortable learning/working environment.
 
@@ -31,7 +31,4 @@ comfortable learning/working environment.
 ### Hobbies
 
 Gaming 🎮 , Drawing 🎨 , Programming 💻 , Farmer's Markets 👨‍🌾 , Hiking ⛰️
-
-
-Also check out my [GitHub Page](https://github.com/BSUJonathanDunn/).
 
