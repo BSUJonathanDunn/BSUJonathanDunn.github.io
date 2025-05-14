@@ -22,7 +22,7 @@ advancements in the field!
 
 ### Work
 
-Currently, I work at **<ins>BSU</ins>** as a supervisor for the West team for our custodial and maintenance teams.\
+Currently, I work at $\color{#0033A0}{B}$ $\color{#D64309}{S}$ $\color{#0033A0}{U}$**<ins>BSU</ins>** as a supervisor for the West team for our custodial and maintenance teams.\
 I help supervise our teams to try and bring a clean campus to students and staff for a more\
 comfortable learning/working environment.
 
